@@ -1,2 +1,2 @@
 # CourseraCode
-Python porjects for Rice University Course
+Python projects for Rice University Course: Introduction to Interactive Python
